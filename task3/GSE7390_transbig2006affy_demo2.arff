@@ -1,0 +1,36 @@
+@relation 'GSE7390_transbig2006affy_demo-weka.filters.unsupervised.attribute.Remove-R1-5,12'
+
+@attribute age numeric
+@attribute size numeric
+@attribute Surgery_type numeric
+@attribute Histtype numeric
+@attribute Angioinv numeric
+@attribute Lymp_infil numeric
+@attribute grade numeric
+@attribute er numeric
+@attribute t.rfs numeric
+@attribute e.rfs numeric
+@attribute t.os numeric
+@attribute e.os numeric
+@attribute t.dmfs numeric
+@attribute e.dmfs numeric
+@attribute t.tdm numeric
+@attribute e.tdm numeric
+@attribute risksg {Poor,Good}
+@attribute NPI numeric
+@attribute risknpi {Poor,Good}
+@attribute AOL_os_10y numeric
+@attribute risk_AOL {Poor,Good}
+@attribute veridex_risk {Poor,Good}
+
+@data
+57,3,0,1,1,2,3,0,723,1,937,1,723,1,723,1,Poor,4.6,Poor,62.7,Poor,Poor
+57,3,0,2,1,3,3,1,183,1,6591,0,6591,0,6591,0,Poor,4.6,Poor,69,Poor,Poor
+48,2.5,1,1,0,2,3,0,524,1,922,1,524,1,524,1,Poor,4.5,Poor,66.2,Poor,Poor
+42,1.8,0,1,1,3,3,1,2192,1,6255,1,6255,1,6255,0,Poor,4.36,Poor,84.9,Poor,Poor
+46,3,0,1,1,2,2,1,3822,1,4133,1,3822,1,3822,1,Poor,3.6,Poor,80.2,Poor,Poor
+58,2,0,2,1,2,2,1,6507,0,6507,0,6507,0,6507,0,Poor,3.4,Poor,83.1,Poor,Good
+44,2,1,1,1,3,3,0,709,1,5947,0,5947,0,5947,0,Poor,4.4,Poor,80.6,Poor,Poor
+58,2.5,1,2,1,2,1,1,5816,1,5816,1,5816,1,5816,0,Poor,2.5,Good,82.1,Poor,Good
+47,3,0,2,2,?,3,1,6007,0,6007,0,6007,0,6007,0,Poor,4.6,Poor,73.2,Poor,Poor
+38,2.5,0,2,2,3,2,1,422,1,1484,1,1233,1,1233,1,Poor,3.5,Poor,81.5,Poor,Poor
